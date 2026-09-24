@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muhammadnazilnazil227-afk.github.io/Muhammed-Nazil/sitemap.xml
